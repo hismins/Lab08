@@ -1,7 +1,8 @@
 package edu.handong.csee.java.Overload;
 
 
-// TODO add javadoc later
+//* average!
+//
 public class Overload {
 
 		public static void main(String[] args) {
